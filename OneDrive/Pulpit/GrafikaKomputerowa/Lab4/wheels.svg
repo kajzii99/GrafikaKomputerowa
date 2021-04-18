@@ -1,0 +1,186 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink"
+width="800px" height="600px"
+viewBox="0 0 3 2"
+preserveAspectRatio="xMidYMid">
+
+<g>
+	<g> <!--pierwsza figura -->
+	<animateTransform attributeName = "transform" type = "rotate"
+		from = "0 0.27,0.41" to = "360 0.27,0.41"  
+		dur = "2s"
+		repeatCount="indefinite" />	
+		<polygon points="150, 0
+						141, 48
+						118, 92
+						82, 125
+						36, 145
+						-12, 149
+						-60, 137
+						-101, 110
+						-131, 71
+						-147, 24
+						-147, -24
+						-131, -71
+						-101, -110
+						-60, -137
+						-12, -149
+						36, -145
+						82, -125
+						118, -92
+						141, -48"
+			fill="black" transform="translate(0.27,0.41) scale(0.0008,0.0008)" />
+	</g>
+	<g>
+	<animateTransform attributeName = "transform" type = "rotate"
+		from = "0 0.75,0.57" to = "360 0.75,0.57"
+		dur = "2s"	
+		repeatCount="indefinite" />	
+		<polygon points="150, 0
+						141, 48
+						118, 92
+						82, 125
+						36, 145
+						-12, 149
+						-60, 137
+						-101, 110
+						-131, 71
+						-147, 24
+						-147, -24
+						-131, -71
+						-101, -110
+						-60, -137
+						-12, -149
+						36, -145
+						82, -125
+						118, -92
+						141, -48"
+			fill="black" transform="translate(0.75,0.57) scale(0.0008,0.0008)" />
+	</g>
+	<polygon points="0.45,0.8 0.5,0.47 0.55,0.8" fill="purple" />		
+	<rect x="0.39" y="0.3" width = "0.5" height = "0.015	" transform = "rotate (18)" 
+		fill="red" stroke="red" stroke-width="0.02" />
+</g>
+
+<g transform="translate(0.8,0.4) scale(1.5,1.5)" >
+	<g>
+	<animateTransform attributeName = "transform" type = "rotate"
+		from = "0 0.17,0.41" to = "360 0.17,0.41"
+		dur = "3s"
+		repeatCount="indefinite" />	
+		<polygon points="150, 0
+						141, 48
+						118, 92
+						82, 125
+						36, 145
+						-12, 149
+						-60, 137
+						-101, 110
+						-131, 71
+						-147, 24
+						-147, -24
+						-131, -71
+						-101, -110
+						-60, -137
+						-12, -149
+						36, -145
+						82, -125
+						118, -92
+						141, -48
+						"
+			fill="black" transform="translate(0.17,0.41) scale(0.0008,0.0008)" />
+	</g>
+
+	<g>
+	<animateTransform attributeName = "transform" type = "rotate"
+		from = "0 0.65,0.57" to = "360 0.65,0.57"
+		dur = "2s"	
+		repeatCount="indefinite" />	
+		<polygon points="150, 0
+						141, 48
+						118, 92
+						82, 125
+						36, 145
+						-12, 149
+						-60, 137
+						-101, 110
+						-131, 71
+						-147, 24
+						-147, -24
+						-131, -71
+						-101, -110
+						-60, -137
+						-12, -149
+						36, -145
+						82, -125
+						118, -92
+						141, -48"
+			fill="black" transform="translate(0.65,0.57) scale(0.0008,0.0008)" />
+	</g>
+	<polygon points="0.35,0.8 0.4,0.47 0.45,0.8" fill="blue" />	
+	<rect x="0.29" y="0.33	" width = "0.5" height = "0.015	" transform = "rotate (18)" 
+		fill="red" stroke="red" stroke-width="0.02" />
+</g>
+
+<g transform="translate(1.6,0.2) scale(0.7,0.7)" >
+	<g>
+		<animateTransform attributeName = "transform" type = "rotate"
+		from = "0 0.37,0.41" to = "360 0.37,0.41"
+		dur = "2s"
+		repeatCount="indefinite" />	
+		<polygon points="150, 0
+						141, 48
+						118, 92
+						82, 125
+						36, 145
+						-12, 149
+						-60, 137
+						-101, 110
+						-131, 71
+						-147, 24
+						-147, -24
+						-131, -71
+						-101, -110
+						-60, -137
+						-12, -149
+						36, -145
+						82, -125
+						118, -92
+						141, -48"
+			fill="black" transform="translate(0.37,0.41) scale(0.0008,0.0008)" />
+	</g>
+	<g>
+	<animateTransform attributeName = "transform" type = "rotate"
+		from = "0 0.85,0.57" to = "360 0.85,0.57"
+		dur = "2s"	
+		repeatCount="indefinite" />	
+		<polygon points="150, 0
+						141, 48
+						118, 92
+						82, 125
+						36, 145
+						-12, 149
+						-60, 137
+						-101, 110
+						-131, 71
+						-147, 24
+						-147, -24
+						-131, -71
+						-101, -110
+						-60, -137
+						-12, -149
+						36, -145
+						82, -125
+						118, -92
+						141, -48"
+			fill="black" transform="translate(0.85,0.57) scale(0.0008,0.0008)" />
+	</g>
+	<polygon points="0.55,0.8 0.6,0.47 0.65,0.8" fill="green" />	
+	<rect x="0.48" y="0.27	" width = "0.5" height = "0.015	" transform = "rotate (18)" 
+		fill="red" stroke="red" stroke-width="0.02" />
+</g>
+
+</svg> 
